@@ -1,7 +1,7 @@
 # Working With SSH In Ubuntu
 This is a brief tutorial of how to get started using SSH with Ubuntu. 
 I have included screenshots of the examples to help you follow along. 
-While your terminal may be identical to mine, the commands and methods are still the same.
+While your terminal may not be identical to mine, the commands and methods are still the same.
 
 We will cover:
 - installing OpenSSH
