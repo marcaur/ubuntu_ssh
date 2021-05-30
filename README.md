@@ -5,9 +5,9 @@ While your terminal may be identical to mine, the commands and methods are still
 
 We will cover:
 - installing OpenSSH
-- Checking the status of OpenSSH
+- Checking the status of SSH
 - Stopping/starting SSH
-- Enabling/disabling OpenSSH
+- Enabling/disabling SSH
 
 ## To check if SSH is already installed, we can use:
 
